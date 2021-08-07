@@ -1,0 +1,36 @@
+body {
+    background-color: azure;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: monospace;
+}
+
+h1 {
+    font-size: xxx-large;
+}
+
+h2 {
+    color: purple;
+    font-size: xx-large;
+}
+
+table {
+    margin: 0 auto;
+    border: thick double purple;
+    width: 40%;
+}
+
+thead tr {
+    text-align: center;
+    font-weight: bold;
+    background-color: lightpink;
+    font-family: monospace;
+    font-size: large;
+    border-bottom: purple;
+}
+
+.code  {
+    background-color:lightyellow
+}
